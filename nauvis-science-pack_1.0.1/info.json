@@ -1,0 +1,12 @@
+{
+  "name": "nauvis-science-pack",
+  "version": "1.0.1",
+  "title": "Nauvis Science Pack",
+  "author": "The-Masca",
+  "description": "Adds a Nauvis science pack that merges all the Nauvis' packs into one.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "? space-age"
+  ]
+}
